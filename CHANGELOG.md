@@ -7,7 +7,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 
 ### 1.0.3
 
-**Commit Delta**: [Change from 1.0.2 release](https://github.com/plus3it/terraform-github-repo/compare/1.0.2...1.0.3)
+**Commit Delta**: [Change from 1.0.2 release](https://github.com/MetroStar/terraform-github-repo/compare/1.0.2...1.0.3)
 
 **Released**: 2019.11.05
 
@@ -18,7 +18,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 
 ### 1.0.2
 
-**Commit Delta**: [Change from 1.0.1 release](https://github.com/plus3it/terraform-github-repo/compare/1.0.1...1.0.2)
+**Commit Delta**: [Change from 1.0.1 release](https://github.com/MetroStar/terraform-github-repo/compare/1.0.1...1.0.2)
 
 **Released**: 2019.11.05
 
@@ -31,7 +31,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 
 **Released**: 2019.10.04
 
-**Commit Delta**: [Change from 1.0.0 release](https://github.com/plus3it/terraform-null-validate-list-item/compare/1.0.0...1.0.1)
+**Commit Delta**: [Change from 1.0.0 release](https://github.com/MetroStar/terraform-null-validate-list-item/compare/1.0.0...1.0.1)
 
 **Summary**:
 
@@ -42,7 +42,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 
 **Released**: 2019.09.11
 
-**Commit Delta**: [Change from 0.0.0 release](https://github.com/plus3it/terraform-null-validate-list-item/compare/0.0.0...1.0.0)
+**Commit Delta**: [Change from 0.0.0 release](https://github.com/MetroStar/terraform-null-validate-list-item/compare/0.0.0...1.0.0)
 
 **Summary**:
 
